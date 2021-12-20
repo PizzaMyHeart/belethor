@@ -1,0 +1,17 @@
+.product {
+    padding: 15px 15px;
+}
+
+#cart {
+    display:none;
+}
+
+#cart-icon:hover + #cart {
+    display:block;
+    position:absolute;
+}
+
+#cart:hover {
+    display:block;
+    position:absolute;
+}

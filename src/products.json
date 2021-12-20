@@ -1,0 +1,126 @@
+{
+    "food": [
+        {
+            "name": "Goat Cheese Wheel",
+            "price": 10,
+            "img": "https://images.uesp.net/thumb/7/79/SR-icon-food-GoatCheeseWheel.png/96px-SR-icon-food-GoatCheeseWheel.png"
+        },
+        {
+            "name": "Sliced Eidar Cheese",
+            "price": 10,
+            "img": "https://images.uesp.net/thumb/2/28/SR-icon-food-SlicedEidarCheese.png/96px-SR-icon-food-SlicedEidarCheese.png"
+        },
+        {
+            "name": "Leek",
+            "price": 1,
+            "img": "https://images.uesp.net/thumb/2/27/SR-icon-food-Leek.png/96px-SR-icon-food-Leek.png"
+        },
+        {
+            "name": "Potato",
+            "price": 1,
+            "img": "https://images.uesp.net/thumb/3/34/SR-icon-food-Potato.png/96px-SR-icon-food-Potato.png"
+        },
+        {
+            "name": "Red Apple",
+            "price": 3,
+            "img": "https://images.uesp.net/thumb/d/d7/SR-icon-food-RedApple.png/96px-SR-icon-food-RedApple.png"
+        },
+        {
+            "name": "Tomato",
+            "price": 4,
+            "img": "https://images.uesp.net/thumb/d/de/SR-icon-food-Tomato.png/96px-SR-icon-food-Tomato.png"
+        }
+    ],
+
+    "books": [
+        {
+            "name": "Beggar Prince",
+            "price": 5,
+            "img": "https://images.uesp.net/thumb/2/29/SR-icon-book-BasicBook5a.png/96px-SR-icon-book-BasicBook5a.png"
+        },
+        {
+            "name": "Biography of Barenziah, vol. 1",
+            "price": 3,
+            "img": "https://images.uesp.net/thumb/8/81/SR-icon-book-BasicBook2.png/96px-SR-icon-book-BasicBook2.png"
+        },
+        {
+            "name": "Biography of Barenziah, vol. 2",
+            "price": 3,
+            "img": "https://images.uesp.net/thumb/8/81/SR-icon-book-BasicBook2.png/96px-SR-icon-book-BasicBook2.png"
+        },
+        {
+            "name": "Biography of Barenziah, vol. 3",
+            "price": 3,
+            "img": "https://images.uesp.net/thumb/8/81/SR-icon-book-BasicBook2.png/96px-SR-icon-book-BasicBook2.png"
+        },
+        {
+            "name": "Fall from Glory",
+            "price": 8,
+            "img": "https://images.uesp.net/thumb/7/7e/SR-icon-book-BasicBook7.png/96px-SR-icon-book-BasicBook7.png"
+        },
+        {
+            "name": "Nightingales: Fact or Fiction?",
+            "price": 3,
+            "img": "https://images.uesp.net/thumb/2/29/SR-icon-book-BasicBook5a.png/96px-SR-icon-book-BasicBook5a.png"
+        },
+        {
+            "name": "Uncommon Taste",
+            "price": 3,
+            "img": "https://images.uesp.net/thumb/f/ff/SR-icon-book-BasicBook3a.png/96px-SR-icon-book-BasicBook3a.png"
+        }
+    ],
+    "potions": [
+        {
+            "name": "Potion of Alteration",
+            "price": 49,
+            "img": "https://images.uesp.net/thumb/6/62/SR-icon-potion-Skill.png/96px-SR-icon-potion-Skill.png"
+        },
+        {
+            "name": "Draught of Alteration",
+            "price": 106,
+            "img": "https://images.uesp.net/thumb/6/62/SR-icon-potion-Skill.png/96px-SR-icon-potion-Skill.png"
+        }
+    ],
+    "misc": [
+        {
+            "name": "Candlestick",
+            "price": 25,
+            "img": "https://images.uesp.net/0/08/SR-icon-misc-Candlestick3.png"
+        },
+        {
+            "name": "Cave Bear Pelt",
+            "price": 60,
+            "img": "https://images.uesp.net/thumb/3/31/SR-icon-misc-CaveBearPelt.png/96px-SR-icon-misc-CaveBearPelt.png"
+        },
+        {
+            "name": "Goblet",
+            "price": 5,
+            "img": "https://images.uesp.net/thumb/7/7c/SR-icon-misc-Goblet2.png/96px-SR-icon-misc-Goblet2.png"
+        },
+        {
+            "name": "Horker Tusk",
+            "price": 15,
+            "img": "https://images.uesp.net/thumb/c/cf/SR-icon-misc-HorkerTusk.png/96px-SR-icon-misc-HorkerTusk.png"
+        },
+        {
+            "name": "Jug",
+            "price": 5,
+            "img": "https://images.uesp.net/thumb/6/60/SR-icon-misc-Jug1.png/96px-SR-icon-misc-Jug1.png"
+        },
+        {
+            "name": "Pot",
+            "price": 5,
+            "img": "https://images.uesp.net/thumb/4/40/SR-icon-misc-Pot1.png/24px-SR-icon-misc-Pot1.png"
+        },
+        {
+            "name": "Tankard",
+            "price": 1,
+            "img": "https://images.uesp.net/thumb/f/fa/SR-icon-misc-Tankard.png/48px-SR-icon-misc-Tankard.png"
+        },
+        {
+            "name": "Troll Skull",
+            "price": 5,
+            "img": "https://images.uesp.net/thumb/f/fb/SR-icon-misc-TrollSkull.png/48px-SR-icon-misc-TrollSkull.png"
+        }
+    ]
+}
