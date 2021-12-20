@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/belethor/static/css/main.2406385f.chunk.css",
+    "main.js": "/belethor/static/js/main.4a1a2afc.chunk.js",
+    "main.js.map": "/belethor/static/js/main.4a1a2afc.chunk.js.map",
+    "runtime-main.js": "/belethor/static/js/runtime-main.d42943ee.js",
+    "runtime-main.js.map": "/belethor/static/js/runtime-main.d42943ee.js.map",
+    "static/js/2.5011f1a6.chunk.js": "/belethor/static/js/2.5011f1a6.chunk.js",
+    "static/js/2.5011f1a6.chunk.js.map": "/belethor/static/js/2.5011f1a6.chunk.js.map",
+    "static/js/3.90f8b8eb.chunk.js": "/belethor/static/js/3.90f8b8eb.chunk.js",
+    "static/js/3.90f8b8eb.chunk.js.map": "/belethor/static/js/3.90f8b8eb.chunk.js.map",
+    "index.html": "/belethor/index.html",
+    "static/css/main.2406385f.chunk.css.map": "/belethor/static/css/main.2406385f.chunk.css.map",
+    "static/js/2.5011f1a6.chunk.js.LICENSE.txt": "/belethor/static/js/2.5011f1a6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d42943ee.js",
+    "static/js/2.5011f1a6.chunk.js",
+    "static/css/main.2406385f.chunk.css",
+    "static/js/main.4a1a2afc.chunk.js"
+  ]
+}
